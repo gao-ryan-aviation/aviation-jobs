@@ -1,0 +1,794 @@
+[
+  {
+    "name": "中国国际航空",
+    "url": "https://zhaopin.airchina.com.cn/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 6
+  },
+  {
+    "name": "中国东方航空",
+    "url": "https://job.ceair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "中国南方航空",
+    "url": "https://job.csair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "海南航空",
+    "url": "https://www.hnair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "厦门航空",
+    "url": "https://hr.xiamenair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "深圳航空",
+    "url": "https://www.shenzhenair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "四川航空",
+    "url": "https://www.sichuanair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "吉祥航空",
+    "url": "https://www.juneyaoair.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "春秋航空",
+    "url": "https://www.ch.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "山东航空",
+    "url": "https://www.sda.cn/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "浙江长龙航空",
+    "url": "https://www.loongair.cn/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "中国国际货运航空",
+    "url": "https://www.airchinacargo.com/",
+    "method": "static",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 412",
+    "candidates": 0
+  },
+  {
+    "name": "中国货运航空",
+    "url": "https://ckair.com/join-us.html",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "顺丰航空",
+    "url": "https://www.sf-airlines.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "中国邮政航空",
+    "url": "http://www.cnplair.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPConnectionPool(host='www.cnplair.com', port=80): Max retries exceeded with u",
+    "candidates": 0
+  },
+  {
+    "name": "圆通航空",
+    "url": "http://www.ytoairline.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPConnectionPool(host='www.ytoairline.com', port=80): Max retries exceeded wit",
+    "candidates": 0
+  },
+  {
+    "name": "中州航空",
+    "url": "http://www.zzairlines.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "SSLError: HTTPSConnectionPool(host='www.zzairlines.com', port=443): Max retries exceeded w",
+    "candidates": 0
+  },
+  {
+    "name": "北京首都国际机场",
+    "url": "https://www.bcia.com.cn/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "北京大兴国际机场",
+    "url": "https://www.bdia.com.cn/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "上海机场集团",
+    "url": "https://www.shanghaiairport.com/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "广东省机场集团",
+    "url": "https://www.gdairport.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "深圳宝安国际机场",
+    "url": "https://www.szairport.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "成都天府国际机场",
+    "url": "http://www.cdairport.com/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "杭州萧山国际机场",
+    "url": "https://www.hzairport.com/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "重庆江北国际机场",
+    "url": "http://www.cqa.cn/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "昆明长水国际机场",
+    "url": "https://www.ynairport.com/zhaopin/index.jhtml",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 10
+  },
+  {
+    "name": "西安咸阳国际机场",
+    "url": "https://www.xianairport.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "厦门高崎国际机场",
+    "url": "https://www.xiamenairport.com.cn/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "青岛胶东国际机场",
+    "url": "http://www.qdairport.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "SSLError: HTTPSConnectionPool(host='www.qdairport.com', port=443): Max retries exceeded wi",
+    "candidates": 0
+  },
+  {
+    "name": "郑州新郑国际机场",
+    "url": "http://www.zzairport.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "武汉天河国际机场",
+    "url": "http://www.hbairport.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "长沙黄花国际机场",
+    "url": "http://www.hnjcjt.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "南京禄口国际机场",
+    "url": "http://www.njairport.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectTimeout: HTTPConnectionPool(host='south32.com', port=80): Max retries exceeded with url: ",
+    "candidates": 0
+  },
+  {
+    "name": "乌鲁木齐地窝堡国际机场",
+    "url": "http://www.xjairport.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "阿联酋航空",
+    "url": "https://www.emiratesgroupcareers.com/search-and-apply/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "阿提哈德航空",
+    "url": "https://careers.etihad.com/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "卡塔尔航空",
+    "url": "https://careers.qatarairways.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "土耳其航空",
+    "url": "https://www.turkishairlines.com/en-int/careers/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='www.turkishairlines.com', port=443): Read timed out. (",
+    "candidates": 0
+  },
+  {
+    "name": "新加坡航空",
+    "url": "https://www.singaporeair.com/en_UK/us/careers/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "国泰航空",
+    "url": "https://careers.cathaypacific.com/zh/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "全日空",
+    "url": "https://www.ana.co.jp/group/en/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "日本航空",
+    "url": "https://www.jal.com/en/careers/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "大韩航空",
+    "url": "https://www.koreanair.com/global/en/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "韩亚航空",
+    "url": "https://flyasiana.com/C/US/EN/index",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "汉莎航空",
+    "url": "https://careers.lufthansa.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPSConnectionPool(host='careers.lufthansa.com', port=443): Max retries exceede",
+    "candidates": 0
+  },
+  {
+    "name": "法国航空",
+    "url": "https://www.airfrancejobs.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPSConnectionPool(host='www.airfrancejobs.com', port=443): Max retries exceede",
+    "candidates": 0
+  },
+  {
+    "name": "荷兰皇家航空",
+    "url": "https://jobs.klm.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='jobs.klm.com', port=443): Read timed out. (read timeou",
+    "candidates": 0
+  },
+  {
+    "name": "英国航空",
+    "url": "https://careers.ba.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "芬兰航空",
+    "url": "https://careers.finnair.com/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPSConnectionPool(host='careers.finnair.com', port=443): Max retries exceeded ",
+    "candidates": 0
+  },
+  {
+    "name": "阿联酋航空货运",
+    "url": "https://www.emiratesgroupcareers.com/search-and-apply/?jobcategory=Cargo",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "卡塔尔航空货运",
+    "url": "https://careers.qatarairways.com/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "国泰货运",
+    "url": "https://careers.cathaypacific.com/zh/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "卢森堡国际货航",
+    "url": "https://www.cargolux.com/careers",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "Atlas Air",
+    "url": "https://www.atlasair.com/careers/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "Kalitta Air",
+    "url": "https://www.kalittaair.us/careers",
+    "method": "static",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPSConnectionPool(host='www.kalittaair.us', port=443): Max retries exceeded wi",
+    "candidates": 0
+  },
+  {
+    "name": "联邦快递",
+    "url": "https://www.fedex.com/en-us/careers.html",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "UPS航空",
+    "url": "https://www.ups.com/us/en/careers",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "大韩航空货运",
+    "url": "https://www.koreanair.com/global/en/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "土耳其货运",
+    "url": "https://www.turkishcargo.com.tr/en/career",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPSConnectionPool(host='www.turkishcargo.com.tr', port=443): Max retries excee",
+    "candidates": 0
+  },
+  {
+    "name": "日本货物航空",
+    "url": "https://www.nca.aero/en/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 404",
+    "candidates": 0
+  },
+  {
+    "name": "中华航空货运",
+    "url": "https://www.china-airlines.com/en/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "长荣航空货运",
+    "url": "https://www.evaair.com/en-us/about-eva-air/careers/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "香港机场管理局",
+    "url": "https://www.hongkongairport.com/en/careers/job-opportunities/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "澳门国际机场",
+    "url": "https://www.macau-airport.com/careers",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "新加坡樟宜机场",
+    "url": "https://www.changiairport.com/en/careers.html",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "迪拜国际机场",
+    "url": "https://www.dubaiairports.ae/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "仁川国际机场",
+    "url": "https://www.airport.kr/ap/ko/tst/recIntroList.do",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "东京成田国际机场",
+    "url": "https://www.narita-airport.jp/en/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "伦敦希思罗机场",
+    "url": "https://www.heathrow.com/careers",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "法兰克福机场",
+    "url": "https://www.fraport.com/en/careers/jobs.html",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 404",
+    "candidates": 0
+  },
+  {
+    "name": "阿姆斯特丹史基浦机场",
+    "url": "https://www.schiphol.nl/en/careers/",
+    "method": "static",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "巴黎机场集团",
+    "url": "https://www.groupeadp.com/en/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 404",
+    "candidates": 0
+  },
+  {
+    "name": "慕尼黑机场",
+    "url": "https://www.munich-airport.com/careers-126264",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "苏黎世机场",
+    "url": "https://www.zurich-airport.com/the-company/careers",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "哥本哈根机场",
+    "url": "https://www.cph.dk/en/about-cph/jobs/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "悉尼金斯福德机场",
+    "url": "https://www.sydneyairport.com.au/corporate/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 404",
+    "candidates": 0
+  },
+  {
+    "name": "温哥华国际机场",
+    "url": "https://www.yvr.ca/en/our-company/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "洛杉矶国际机场",
+    "url": "https://www.lawa.org/careers",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 404",
+    "candidates": 0
+  },
+  {
+    "name": "旧金山国际机场",
+    "url": "https://www.flysfo.com/careers",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 1
+  },
+  {
+    "name": "Swissport",
+    "url": "https://careers.swissport.com/",
+    "method": "ats",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
+    "candidates": 0
+  },
+  {
+    "name": "Dnata",
+    "url": "https://www.dnata.com/en/careers",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "Menzies Aviation",
+    "url": "https://www.menziesaviation.com/careers/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "Worldwide Flight Services",
+    "url": "https://www.wfs.aero/careers",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "SATS",
+    "url": "https://www.sats.com.sg/careers",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "Aviapartner",
+    "url": "https://www.aviapartner.aero/careers/",
+    "method": "js",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 503",
+    "candidates": 0
+  },
+  {
+    "name": "航空英才网",
+    "url": "http://www.airyc.cn/",
+    "method": "js",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "职友集机场招聘",
+    "url": "https://www.jobui.com/jobs/?jobKw=%E6%9C%BA%E5%9C%BA",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  },
+  {
+    "name": "北京外航服务公司FASCO",
+    "url": "https://www.fasco.com.cn/",
+    "method": "static",
+    "ok": true,
+    "status": 200,
+    "note": "静态抓取成功",
+    "candidates": 0
+  }
+]
