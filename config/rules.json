@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "_comment": "三条硬过滤：去飞行员、去派遣制、判中国籍友好度。词表区分中英文，命中即打标。",
+
+  "exclude_pilot": {
+    "_comment": "命中即剔除（岗位类型不含飞行员）",
+    "zh": ["飞行员", "副驾驶", "机长", "飞行学员", "飞行教员", "飞行技术", "大改驾", "养成生", "飞行签派员"],
+    "en": ["pilot", "first officer", "captain", "flight crew", "cadet pilot", "flight instructor", "type rated captain"]
+  },
+
+  "pilot_exception": {
+    "_comment": "命中飞行员词但同时命中这些词时保留（例如HR岗『负责外籍飞行员招聘』）",
+    "zh": ["招聘专员", "招聘经理", "人力资源", "hr ", "招聘主管", "招聘岗", "人事"],
+    "en": ["recruiter", "recruitment specialist", "talent acquisition", "human resources", "hr business partner"]
+  },
+
+  "exclude_dispatch": {
+    "_comment": "命中即剔除（不接受派遣制/外包/第三方用工）。注意：英文不用裸词 dispatch，因其在民航语境指运行签派，会误杀 flight dispatcher 岗位；中文『外派』指驻外、非派遣制，也不得命中。",
+    "zh": ["派遣", "劳务派遣", "劳务外包", "外包公司", "第三方用工", "与第三方签订", "人力资源公司代招", "中介",
+           "非直签", "人才派遣", "岗位外包", "业务外包", "第三方公司签订"],
+    "en": ["outsourced", "third-party employer", "agency contract", "temporary staffing",
+           "contractor payroll", "staffing agency", "labour dispatch"]
+  },
+
+  "china_target_positive": {
+    "_comment": "判定『针对中国籍/中国人招聘』的正向信号，命中越多分越高",
+    "zh": ["中国籍", "中华人民共和国公民", "中国大陆公民", "大陆籍", "仅限中国", "普通话", "中文流利", "中文能力",
+           "中国公民", "中国国籍", "母语为中文", "中文母语", "会普通话", "大陆居民", "内地居民", "中国内地"],
+    "en": ["chinese national", "chinese citizen", "prc national", "mainland china", "mandarin required",
+           "mandarin speaker", "chinese speaking", "fluent mandarin", "native mandarin", "prc citizenship"]
+  },
+
+  "china_target_negative": {
+    "_comment": "负向信号：要求当地永居/工作权，中国籍无法申请",
+    "zh": ["仅限本地居民", "需持有当地工作许可", "仅限香港永久性居民"],
+    "en": ["only permanent residents", "must have the right to work", "right to work in",
+           "must be eligible to work", "permanent residency required", "authorised to work in"]
+  },
+
+  "exclude_noise": {
+    "_comment": "非岗位的干扰条目：防诈骗提示、免责声明、下载说明等",
+    "zh": ["防范", "温馨提示", "诈骗", "欺诈", "声明", "免责", "常见问题", "注意事项",
+           "使用手册", "报名表下载", "个人信息登记表", "通知公告"],
+    "en": ["fraud", "scam", "disclaimer", "privacy policy", "cookie policy",
+           "terms of use", "alert"]
+  },
+
+  "job_keywords": {
+    "_comment": "用于从页面HTML中识别『这一条是岗位』的信号词",
+    "zh": ["招聘", "职位", "岗位", "招聘简章", "诚聘", "招募", "招录", "应聘", "校招", "社招"],
+    "en": ["job", "career", "vacancy", "vacancies", "position", "opening", "apply", "recruit", "hiring"]
+  },
+
+  "categories": {
+    "_comment": "岗位类别自动归类，按顺序匹配，命中即归该类",
+    "乘务": ["乘务", "空乘", "客舱", "安全员", "cabin crew", "flight attendant", "cabin service"],
+    "地面服务": ["地服", "地面服务", "值机", "贵宾室", "行李", "旅客服务", "ground handling", "ground service",
+                 "passenger service", "check-in", "ramp", "baggage"],
+    "货运物流": ["货运", "物流", "货站", "监装", "单证", "报关", "cargo", "freight", "logistics", "warehouse"],
+    "机务维修": ["机务", "维修", "定检", "航线维修", "maintenance", "technician", "engineer", "avionics"],
+    "运行保障": ["运行", "签派", "机坪", "航务", "运行控制", "operations", "dispatch", "apron", "load control"],
+    "市场销售": ["销售", "市场", "渠道", "商务", "客户经理", "sales", "marketing", "commercial", "account manager"],
+    "职能支持": ["人事", "人力资源", "行政", "财务", "法务", "合规", "采购", "hr", "finance", "legal",
+                 "compliance", "procurement", "admin"]
+  },
+
+  "fetch": {
+    "_comment": "并发抓取参数。超时/重试刻意保守：宁可让个别源失败，也不要让整轮任务被少数慢站拖垮。",
+    "timeout": 12,
+    "retries": 1,
+    "delay_between_requests": 0.3,
+    "jina_enabled": true,
+    "jina_prefix": "https://r.jina.ai/",
+    "ddg_enabled": false,
+    "ddg_endpoint": "https://html.duckduckgo.com/html/"
+  }
+}
