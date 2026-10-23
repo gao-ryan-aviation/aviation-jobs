@@ -1,0 +1,66 @@
+name: 航空招聘每日更新
+
+on:
+  schedule:
+    # 北京时间每天 07:00（GitHub Actions 使用 UTC，即前一日 23:00）
+    - cron: '0 23 * * *'
+  workflow_dispatch:   # 允许在网页上手动点一次立即运行
+  push:
+    branches: [ main ]
+    paths:
+      - 'sources.csv'
+      - 'config/rules.json'
+      - 'src/**'
+      - 'run.py'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行抓取与增量比对
+        run: python run.py
+
+      - name: 上传看板产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: 提交更新的数据
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          git diff --quiet --cached || git commit -m "chore: 更新招聘数据 $(date +'%Y-%m-%d')"
+          git push
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
