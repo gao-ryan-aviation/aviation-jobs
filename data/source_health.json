@@ -192,9 +192,9 @@
     "name": "深圳宝安国际机场",
     "url": "https://www.szairport.com/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ConnectTimeout: HTTPSConnectionPool(host='www.szairport.com', port=443): Max retries exceeded wi",
     "candidates": 0
   },
   {
@@ -219,9 +219,9 @@
     "name": "重庆江北国际机场",
     "url": "http://www.cqa.cn/",
     "method": "static",
-    "ok": true,
-    "status": 200,
-    "note": "静态抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 405",
     "candidates": 0
   },
   {
@@ -239,7 +239,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "抓取成功",
+    "note": "经阅读代理渲染",
     "candidates": 0
   },
   {
@@ -264,10 +264,10 @@
     "name": "郑州新郑国际机场",
     "url": "http://www.zzairport.com/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
-    "candidates": 1
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPConnectionPool(host='www.zzairport.com', port=80): Max retries exceeded with",
+    "candidates": 0
   },
   {
     "name": "武汉天河国际机场",
@@ -291,18 +291,18 @@
     "name": "南京禄口国际机场",
     "url": "http://www.njairport.com/",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "ConnectTimeout: HTTPConnectionPool(host='south32.com', port=80): Max retries exceeded with url: ",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
     "name": "乌鲁木齐地窝堡国际机场",
     "url": "http://www.xjairport.com/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ConnectionError: HTTPConnectionPool(host='www.xjairport.com', port=80): Max retries exceeded with",
     "candidates": 0
   },
   {
@@ -500,7 +500,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "抓取成功",
+    "note": "经阅读代理渲染",
     "candidates": 0
   },
   {
@@ -714,9 +714,9 @@
     "name": "Swissport",
     "url": "https://careers.swissport.com/",
     "method": "ats",
-    "ok": false,
-    "status": null,
-    "note": "HTTP 403",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -752,7 +752,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "抓取成功",
+    "note": "经阅读代理渲染",
     "candidates": 0
   },
   {
@@ -761,7 +761,7 @@
     "method": "js",
     "ok": false,
     "status": null,
-    "note": "HTTP 503",
+    "note": "HTTP 404",
     "candidates": 0
   },
   {
@@ -788,7 +788,7 @@
     "method": "static",
     "ok": true,
     "status": 200,
-    "note": "静态抓取成功",
+    "note": "经阅读代理渲染",
     "candidates": 0
   }
 ]
