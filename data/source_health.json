@@ -84,9 +84,9 @@
     "name": "山东航空",
     "url": "https://www.sda.cn/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='www.sda.cn', port=443): Read timed out. (read timeout=",
     "candidates": 0
   },
   {
@@ -509,7 +509,7 @@
     "method": "static",
     "ok": true,
     "status": 200,
-    "note": "静态抓取成功",
+    "note": "经阅读代理渲染",
     "candidates": 0
   },
   {
