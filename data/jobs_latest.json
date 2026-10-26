@@ -13,58 +13,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
-    "status": "ONGOING"
-  },
-  {
-    "id": "fcd13fcf645e",
-    "source": "中国国际航空",
-    "source_type": "airline_pax",
-    "country": "中国内地",
-    "title": "深圳航空有限责任公司管理培训生岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185724.shtml",
-    "snippet": "2026-10-23",
-    "category": "其他",
-    "china_score": 0,
-    "source_friendly": "high",
-    "kept": true,
-    "reject_reason": "",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-25",
-    "status": "ONGOING"
-  },
-  {
-    "id": "77e440654fd7",
-    "source": "中国国际航空",
-    "source_type": "airline_pax",
-    "country": "中国内地",
-    "title": "中国国际航空股份有限公司统招岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185706.shtml",
-    "snippet": "2026-10-20",
-    "category": "其他",
-    "china_score": 0,
-    "source_friendly": "high",
-    "kept": true,
-    "reject_reason": "",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
-    "status": "ONGOING"
-  },
-  {
-    "id": "5d3330786afc",
-    "source": "中国国际航空",
-    "source_type": "airline_pax",
-    "country": "中国内地",
-    "title": "中国国际货运航空股份有限公司综合管理储备生岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185704.shtml",
-    "snippet": "2026-10-20",
-    "category": "货运物流",
-    "china_score": 0,
-    "source_friendly": "high",
-    "kept": true,
-    "reject_reason": "",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -81,7 +30,58 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
+    "status": "ONGOING"
+  },
+  {
+    "id": "77e440654fd7",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "中国国际航空股份有限公司统招岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185706.shtml",
+    "snippet": "2026-10-20",
+    "category": "其他",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-26",
+    "status": "ONGOING"
+  },
+  {
+    "id": "5d3330786afc",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "中国国际货运航空股份有限公司综合管理储备生岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185704.shtml",
+    "snippet": "2026-10-20",
+    "category": "货运物流",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-26",
+    "status": "ONGOING"
+  },
+  {
+    "id": "fcd13fcf645e",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "深圳航空有限责任公司管理培训生岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185724.shtml",
+    "snippet": "2026-10-23",
+    "category": "其他",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -98,7 +98,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -115,7 +115,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -132,7 +132,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -149,7 +149,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -166,7 +166,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -183,7 +183,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -200,7 +200,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -217,7 +217,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -234,7 +234,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -251,7 +251,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -268,7 +268,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -285,7 +285,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -302,7 +302,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -319,7 +319,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -336,7 +336,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -353,7 +353,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -370,7 +370,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -387,7 +387,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -404,7 +404,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -421,7 +421,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -438,7 +438,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -455,7 +455,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
@@ -472,7 +472,7 @@
     "kept": false,
     "reject_reason": "飞行员岗位（按需求排除）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-26",
     "status": "ONGOING"
   },
   {
