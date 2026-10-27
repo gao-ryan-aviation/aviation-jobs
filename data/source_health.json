@@ -228,10 +228,10 @@
     "name": "昆明长水国际机场",
     "url": "https://www.ynairport.com/zhaopin/index.jhtml",
     "method": "static",
-    "ok": true,
-    "status": 200,
-    "note": "静态抓取成功",
-    "candidates": 10
+    "ok": false,
+    "status": null,
+    "note": "ConnectTimeout: HTTPSConnectionPool(host='www.ynairport.com', port=443): Max retries exceeded wi",
+    "candidates": 0
   },
   {
     "name": "西安咸阳国际机场",
@@ -660,9 +660,9 @@
     "name": "苏黎世机场",
     "url": "https://www.zurich-airport.com/the-company/careers",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
     "candidates": 0
   },
   {
