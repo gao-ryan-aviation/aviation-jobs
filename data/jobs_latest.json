@@ -13,7 +13,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -30,7 +30,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -47,7 +47,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -64,7 +64,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -81,7 +81,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -98,8 +98,8 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
-    "status": "NEW"
+    "last_seen": "2026-10-30",
+    "status": "ONGOING"
   },
   {
     "id": "91fdde40bb8a",
@@ -115,7 +115,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -132,7 +132,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -149,7 +149,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -166,7 +166,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -183,7 +183,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -200,7 +200,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -217,7 +217,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -234,7 +234,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -251,7 +251,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -268,7 +268,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -285,7 +285,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -302,7 +302,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -319,7 +319,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -336,7 +336,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -353,7 +353,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -370,7 +370,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -387,7 +387,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -404,7 +404,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -421,7 +421,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -438,7 +438,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -455,7 +455,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {
@@ -472,7 +472,7 @@
     "kept": false,
     "reject_reason": "飞行员岗位（按需求排除）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "status": "ONGOING"
   },
   {

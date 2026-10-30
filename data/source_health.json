@@ -291,9 +291,9 @@
     "name": "南京禄口国际机场",
     "url": "http://www.njairport.com/",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "ConnectTimeout: HTTPConnectionPool(host='www.njairport.com', port=80): Max retries exceeded with",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
