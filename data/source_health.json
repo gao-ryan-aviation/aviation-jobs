@@ -84,9 +84,9 @@
     "name": "山东航空",
     "url": "https://www.sda.cn/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='www.sda.cn', port=443): Read timed out. (read timeout=",
     "candidates": 0
   },
   {
@@ -174,9 +174,9 @@
     "name": "上海机场集团",
     "url": "https://www.shanghaiairport.com/",
     "method": "static",
-    "ok": true,
-    "status": 200,
-    "note": "静态抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 521",
     "candidates": 0
   },
   {
@@ -309,10 +309,10 @@
     "name": "阿联酋航空",
     "url": "https://www.emiratesgroupcareers.com/search-and-apply/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
-    "candidates": 1
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='www.emiratesgroupcareers.com', port=443): Read timed o",
+    "candidates": 0
   },
   {
     "name": "阿提哈德航空",
