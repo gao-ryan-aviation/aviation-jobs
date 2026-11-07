@@ -246,9 +246,9 @@
     "name": "厦门高崎国际机场",
     "url": "https://www.xiamenairport.com.cn/",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "ReadTimeout: HTTPSConnectionPool(host='www.xiamenairport.com.cn', port=443): Read timed out. ",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -660,9 +660,9 @@
     "name": "苏黎世机场",
     "url": "https://www.zurich-airport.com/the-company/careers",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "HTTP 403",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
