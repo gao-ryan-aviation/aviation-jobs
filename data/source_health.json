@@ -6,7 +6,7 @@
     "ok": true,
     "status": 200,
     "note": "静态抓取成功",
-    "candidates": 6
+    "candidates": 5
   },
   {
     "name": "中国东方航空",
@@ -84,9 +84,9 @@
     "name": "山东航空",
     "url": "https://www.sda.cn/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='www.sda.cn', port=443): Read timed out. (read timeout=",
     "candidates": 0
   },
   {
@@ -156,9 +156,9 @@
     "name": "北京首都国际机场",
     "url": "https://www.bcia.com.cn/",
     "method": "static",
-    "ok": true,
-    "status": 200,
-    "note": "静态抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 403",
     "candidates": 0
   },
   {
