@@ -768,9 +768,9 @@
     "name": "航空英才网",
     "url": "http://www.airyc.cn/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "HTTP 503",
     "candidates": 0
   },
   {
