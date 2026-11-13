@@ -84,9 +84,9 @@
     "name": "山东航空",
     "url": "https://www.sda.cn/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ReadTimeout: HTTPSConnectionPool(host='www.sda.cn', port=443): Read timed out. (read timeout=",
     "candidates": 0
   },
   {
@@ -708,7 +708,7 @@
     "ok": true,
     "status": 200,
     "note": "抓取成功",
-    "candidates": 1
+    "candidates": 0
   },
   {
     "name": "Swissport",
@@ -768,9 +768,9 @@
     "name": "航空英才网",
     "url": "http://www.airyc.cn/",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "HTTP 503",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
