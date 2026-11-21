@@ -192,9 +192,9 @@
     "name": "深圳宝安国际机场",
     "url": "https://www.szairport.com/",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "ReadTimeout: HTTPSConnectionPool(host='www.szairport.com', port=443): Read timed out. (read t",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -660,9 +660,9 @@
     "name": "苏黎世机场",
     "url": "https://www.zurich-airport.com/the-company/careers",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "HTTP 403",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -788,7 +788,7 @@
     "method": "static",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "静态抓取成功",
     "candidates": 0
   }
 ]
