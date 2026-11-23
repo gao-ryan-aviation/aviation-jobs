@@ -13,93 +13,59 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
-    "id": "fcd13fcf645e",
+    "id": "8eb5e26dd6dc",
     "source": "中国国际航空",
     "source_type": "airline_pax",
     "country": "中国内地",
-    "title": "深圳航空有限责任公司管理培训生岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185724.shtml",
-    "snippet": "2026-10-23",
+    "title": "中国航空传媒有限责任公司2026年空地互联专项岗位招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/11/185839.shtml",
+    "snippet": "2026-11-17",
     "category": "其他",
     "china_score": 0,
     "source_friendly": "high",
     "kept": true,
     "reject_reason": "",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "status": "NEW"
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-23",
+    "status": "ONGOING"
   },
   {
-    "id": "77e440654fd7",
+    "id": "8eaba481a5ea",
     "source": "中国国际航空",
     "source_type": "airline_pax",
     "country": "中国内地",
-    "title": "中国国际航空股份有限公司统招岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185706.shtml",
-    "snippet": "2026-10-20",
+    "title": "国航股份浙江分公司2026年地面综合服务岗位实习生招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/11/185830.shtml",
+    "snippet": "2026-11-16",
     "category": "其他",
     "china_score": 0,
     "source_friendly": "high",
     "kept": true,
     "reject_reason": "",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
-    "id": "5d3330786afc",
+    "id": "ec0ae88b74d1",
     "source": "中国国际航空",
     "source_type": "airline_pax",
     "country": "中国内地",
-    "title": "中国国际货运航空股份有限公司综合管理储备生岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185704.shtml",
-    "snippet": "2026-10-20",
-    "category": "货运物流",
+    "title": "中航集团（国航股份）数字化转型办公室2026年市场化人才招聘结果公示",
+    "url": "https://zhaopin.airchina.com.cn/social/announcement/2026/11/185833.shtml",
+    "snippet": "2026-11-17",
+    "category": "市场销售",
     "china_score": 0,
     "source_friendly": "high",
     "kept": true,
     "reject_reason": "",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
-  },
-  {
-    "id": "2732a7c3ae4d",
-    "source": "中国国际航空",
-    "source_type": "airline_pax",
-    "country": "中国内地",
-    "title": "中航集团（国航股份）管理储备生岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185603.shtml",
-    "snippet": "2026-10-13",
-    "category": "其他",
-    "china_score": 0,
-    "source_friendly": "high",
-    "kept": true,
-    "reject_reason": "",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
-    "status": "ONGOING"
-  },
-  {
-    "id": "7fab8fde319a",
-    "source": "中国国际航空",
-    "source_type": "airline_pax",
-    "country": "中国内地",
-    "title": "深圳航空有限责任公司机务及签派类岗位2027届高校毕业生校园招聘简章",
-    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185722.shtml",
-    "snippet": "2026-10-23",
-    "category": "机务维修",
-    "china_score": 0,
-    "source_friendly": "high",
-    "kept": true,
-    "reject_reason": "",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "status": "NEW"
   },
   {
     "id": "91fdde40bb8a",
@@ -115,7 +81,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -132,7 +98,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -149,7 +115,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -166,7 +132,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -183,7 +149,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -200,7 +166,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -217,7 +183,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -234,7 +200,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -251,7 +217,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -268,7 +234,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -285,7 +251,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -302,7 +268,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -319,7 +285,7 @@
     "kept": false,
     "reject_reason": "非岗位信息（公告/声明/下载）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -336,7 +302,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -353,24 +319,7 @@
     "kept": false,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
-    "status": "ONGOING"
-  },
-  {
-    "id": "f9b390d0c55e",
-    "source": "旧金山国际机场",
-    "source_type": "airport",
-    "country": "美国",
-    "title": "Apply for an Internship",
-    "url": "https://www.flysfo.com/about/careers/explore-sfos-unique-career-pathway-programs",
-    "snippet": "Career Pathway Programs Image Let your career pathway take flight at SFO ! Apply for an Internship",
-    "category": "其他",
-    "china_score": 0,
-    "source_friendly": "low",
-    "kept": false,
-    "reject_reason": "",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -387,7 +336,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -404,7 +353,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -421,7 +370,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -438,7 +387,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -455,7 +404,7 @@
     "kept": true,
     "reject_reason": "",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
   },
   {
@@ -472,8 +421,144 @@
     "kept": false,
     "reject_reason": "飞行员岗位（按需求排除）",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "status": "ONGOING"
+  },
+  {
+    "id": "77e440654fd7",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "中国国际航空股份有限公司统招岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185706.shtml",
+    "snippet": "2026-10-20",
+    "category": "其他",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-11-19",
+    "status": "CLOSED"
+  },
+  {
+    "id": "fcd13fcf645e",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "深圳航空有限责任公司管理培训生岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185724.shtml",
+    "snippet": "2026-10-23",
+    "category": "其他",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-19",
+    "status": "CLOSED"
+  },
+  {
+    "id": "2732a7c3ae4d",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "中航集团（国航股份）管理储备生岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185603.shtml",
+    "snippet": "2026-10-13",
+    "category": "其他",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-11-14",
+    "status": "CLOSED"
+  },
+  {
+    "id": "5d3330786afc",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "中国国际货运航空股份有限公司综合管理储备生岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185704.shtml",
+    "snippet": "2026-10-20",
+    "category": "货运物流",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-11-14",
+    "status": "CLOSED"
+  },
+  {
+    "id": "f9b390d0c55e",
+    "source": "旧金山国际机场",
+    "source_type": "airport",
+    "country": "美国",
+    "title": "Apply for an Internship",
+    "url": "https://www.flysfo.com/about/careers/explore-sfos-unique-career-pathway-programs",
+    "snippet": "Career Pathway Programs Image Let your career pathway take flight at SFO ! Apply for an Internship",
+    "category": "其他",
+    "china_score": 0,
+    "source_friendly": "low",
+    "kept": false,
+    "reject_reason": "",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-11-12",
+    "status": "CLOSED"
+  },
+  {
+    "id": "14ae72d9ad47",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "山东航空股份有限公司双证安全员岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/11/185763.shtml",
+    "snippet": "2026-11-06",
+    "category": "乘务",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
+    "status": "CLOSED"
+  },
+  {
+    "id": "a69c09b39137",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "国航股份西南分公司乘务员岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185741.shtml",
+    "snippet": "2026-10-29",
+    "category": "乘务",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-05",
+    "status": "CLOSED"
+  },
+  {
+    "id": "7fab8fde319a",
+    "source": "中国国际航空",
+    "source_type": "airline_pax",
+    "country": "中国内地",
+    "title": "深圳航空有限责任公司机务及签派类岗位2027届高校毕业生校园招聘简章",
+    "url": "https://zhaopin.airchina.com.cn/recruitment/infomation/10/185722.shtml",
+    "snippet": "2026-10-23",
+    "category": "机务维修",
+    "china_score": 0,
+    "source_friendly": "high",
+    "kept": true,
+    "reject_reason": "",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-28",
+    "status": "CLOSED"
   },
   {
     "id": "23fe018a9979",
