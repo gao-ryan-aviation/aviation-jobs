@@ -6,7 +6,7 @@
     "ok": true,
     "status": 200,
     "note": "静态抓取成功",
-    "candidates": 4
+    "candidates": 2
   },
   {
     "name": "中国东方航空",
@@ -41,7 +41,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -239,7 +239,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -291,9 +291,9 @@
     "name": "南京禄口国际机场",
     "url": "http://www.njairport.com/",
     "method": "js",
-    "ok": true,
-    "status": 200,
-    "note": "抓取成功",
+    "ok": false,
+    "status": null,
+    "note": "ConnectTimeout: HTTPConnectionPool(host='capost.com', port=80): Max retries exceeded with url: /",
     "candidates": 0
   },
   {
@@ -392,7 +392,7 @@
     "method": "js",
     "ok": false,
     "status": null,
-    "note": "HTTP 403",
+    "note": "ReadTimeout: HTTPSConnectionPool(host='flyasiana.com', port=443): Read timed out. (read timeo",
     "candidates": 0
   },
   {
@@ -500,7 +500,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -509,7 +509,7 @@
     "method": "static",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "静态抓取成功",
     "candidates": 0
   },
   {
@@ -752,7 +752,7 @@
     "method": "js",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "抓取成功",
     "candidates": 0
   },
   {
@@ -788,7 +788,7 @@
     "method": "static",
     "ok": true,
     "status": 200,
-    "note": "经阅读代理渲染",
+    "note": "静态抓取成功",
     "candidates": 0
   }
 ]
