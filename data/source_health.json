@@ -48,9 +48,9 @@
     "name": "深圳航空",
     "url": "https://www.shenzhenair.com/",
     "method": "js",
-    "ok": false,
-    "status": null,
-    "note": "ReadTimeout: HTTPSConnectionPool(host='www.shenzhenair.com', port=443): Read timed out. (read",
+    "ok": true,
+    "status": 200,
+    "note": "抓取成功",
     "candidates": 0
   },
   {
